@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "koa": "^2.15.2",
+    "koa-bodyparser": "^4.4.1",
+    "koa-validate": "^1.0.7",
+    "koa-validator": "^0.6.4",
+    "validatorjs": "^3.22.1"
+  }
+}
