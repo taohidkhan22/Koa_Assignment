@@ -1,4 +1,4 @@
-## Koa assignment repo
+## Koa assignment 
 ### Class work- 
 - use koa-body-parser to parse request body
 - use validation npm package to validate request 
