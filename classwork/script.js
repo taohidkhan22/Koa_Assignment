@@ -26,6 +26,7 @@ app.use((ctx) => {
                 Age: ${data.age}`;
   } else {
     ctx.status = 400;
+    console.log('Validation failed. Errors:', validation.errors.all());
     ctx.body = "Wrong data entry";
   }
 });
